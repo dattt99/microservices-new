@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "eureka.username",
+      "type": "java.lang.String",
+      "description": "Description for eureka.username."
+  }
+] }
